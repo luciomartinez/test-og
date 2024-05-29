@@ -4,6 +4,7 @@ const port = process.env.PORT || 3001;
 
 app.get("/", (req, res) => {
   const ua = req.get('User-Agent') ?? 'unknown';
+  console.log(ua);
   const html = `
 <!DOCTYPE html>
 <html>
