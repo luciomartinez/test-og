@@ -1,8 +1,12 @@
+> [!WARNING]
+> Repository archived and no longer maintained nor deployed.
+---
+
 # README
 
-This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
+> Test Open Graph
 
-The app in this repo is deployed at [https://express.onrender.com](https://express.onrender.com).
+Test OG by rendering the immediate UserAgent in various part of the DOM to diagnose offline platforms (e.g. WhatsApp, Instagram, etc.).
 
 ## Deployment
 
